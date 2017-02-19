@@ -24,8 +24,8 @@ There's not a lot of feature currently. You can login by entering your Airbnb em
 
 ![Screenshot](https://raw.githubusercontent.com/nicolasblanco/my-bnb-memories/master/bnb_memories.gif)
 
-Installation
-------------
+How to run?
+-----------
 
 Make sure you have at least Node LTS. Run `npm install` in both the current directory and the `vue` directory.
 
