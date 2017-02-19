@@ -17,7 +17,12 @@ The goal is to create a simple application which will automatically compile and 
 Currently, MyBnbMemories is developed as a stand-alone application using Electron.
 The client-side web application of the Electron app is inside the `vue` folder and is a Vue.js Single Page Application. It uses Vue Material, Google Maps API, Charts.js and other cool librairies around...
 
-![Screenshot](https://raw.githubusercontent.com/nicolasblanco/my-bnb-memories/master/screenshot.png)
+How does it look like?
+----------------------
+
+There's not a lot of feature currently. You can login by entering your Airbnb email and password. If everything goes well, you get a single page board with a Google Maps and markers of your previous travels. Bellow you get some cards with information of your past travels and total price you paid for each.
+
+![Screenshot](https://raw.githubusercontent.com/nicolasblanco/my-bnb-memories/master/bnb_memories.gif)
 
 Installation
 ------------
