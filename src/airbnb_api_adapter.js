@@ -4,7 +4,7 @@ const Promise = require('promise')
 
 const DEFAULT_PARAMS = {
   _format: 'default',
-  _limit: 50,
+  _limit: 15,
   _offset: 0,
   pending: false,
   client_id: process.env.AIRBNB_CLIENT_ID,
