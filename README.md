@@ -14,8 +14,11 @@ As a frequent Airbnb user, you get very few information and statistics about you
 
 The goal is to create a simple application which will automatically compile and display useful data and statistics about your personal past trips.
 
-Currently, MyBnbMemories is developed as a stand-alone application using Electron.
-The client-side web application of the Electron app is inside the `vue` folder and is a Vue.js Single Page Application. It uses Vue Material, Google Maps API, Charts.js and other cool librairies around...
+Currently, MyBnbMemories is developed as a stand-alone application using [Electron](http://electron.atom.io).
+It uses librairies like Request Promise Native to make calls to the private Airbnb API.
+The client-side web application of the Electron app is inside the `vue` folder and is a [Vue.js](https://vuejs.org) Single Page Application.
+
+It uses Vue Material, Google Maps API, Charts.js and other cool librairies around...
 
 How does it look like?
 ----------------------
