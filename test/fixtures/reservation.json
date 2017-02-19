@@ -1,0 +1,1053 @@
+{
+  "metadata": {},
+  "reservation": {
+    "alterations": [
+      {
+        "base_price": 1485,
+        "check_in": "2015-11-29",
+        "check_out": "2016-01-17",
+        "created_at": "2015-11-25T01:52:43Z",
+        "extras_price": 0,
+        "guests": 1,
+        "id": 453453,
+        "initiated_by": "guest",
+        "initiator_id": 3453453,
+        "listing_id": 56543653,
+        "possible": false,
+        "pricing_quote": {
+          "cancellation_policy_label": "long_term",
+          "cancellation_policy_link": "/home/cancellation_policies#long-term",
+          "installments": [
+            {
+              "date_range": null,
+              "localized_explanation": null,
+              "localized_title": "Due Today",
+              "price_items": [],
+              "total": {
+                "amount": 898,
+                "currency": "EUR"
+              },
+              "type": "INSTALLMENT"
+            },
+            {
+              "date_range": null,
+              "localized_explanation": null,
+              "localized_title": "Due on Dec 26, 2015",
+              "price_items": [],
+              "total": {
+                "amount": 538,
+                "currency": "EUR"
+              },
+              "type": "INSTALLMENT"
+            }
+          ],
+          "localized_cancellation_policy_name": "Long Term",
+          "price": {
+            "date_range": null,
+            "localized_explanation": null,
+            "localized_title": "Total",
+            "price_items": [
+              {
+                "date_range": null,
+                "localized_explanation": "49 nights at €27 average per night. Average nightly rate is rounded.",
+                "localized_title": "Accommodation",
+                "price_items": [],
+                "total": {
+                  "amount": 1321,
+                  "currency": "EUR"
+                },
+                "type": "ACCOMMODATION"
+              },
+              {
+                "date_range": null,
+                "localized_explanation": "This helps us run our platform and offer services like 24/7 support on your trip.",
+                "localized_title": "Service fee",
+                "price_items": [],
+                "total": {
+                  "amount": 115,
+                  "currency": "EUR"
+                },
+                "type": "AIRBNB_GUEST_FEE"
+              }
+            ],
+            "total": {
+              "amount": 1436,
+              "currency": "EUR"
+            },
+            "type": "TOTAL"
+          }
+        },
+        "problem": "This reservation already completed and can no longer be changed. You may want to create a new reservation.",
+        "response_at": "2015-11-25T02:56:00Z",
+        "status": 1,
+        "status_string": "Accepted",
+        "subtotal_usd": 1485,
+        "updated_at": "2015-11-25T02:56:00Z",
+        "guest_price_difference": {
+          "amount": -20,
+          "currency": "EUR"
+        },
+        "listing": {
+          "id": 6576575,
+          "name": "DELUXE STUDIO 35 SQM .SUNNY BALCONY. CHALONG",
+          "thumbnail_url": "https://foobar"
+        },
+        "reservation_pricing_quote": {
+          "cancellation_policy_label": "long_term",
+          "cancellation_policy_link": "/home/cancellation_policies#long-term",
+          "installments": [
+            {
+              "date_range": null,
+              "localized_explanation": null,
+              "localized_title": "Due Today",
+              "price_items": [],
+              "total": {
+                "amount": 911,
+                "currency": "EUR"
+              },
+              "type": "INSTALLMENT"
+            },
+            {
+              "date_range": null,
+              "localized_explanation": null,
+              "localized_title": "Due on Dec 26, 2015",
+              "price_items": [],
+              "total": {
+                "amount": 545,
+                "currency": "EUR"
+              },
+              "type": "INSTALLMENT"
+            }
+          ],
+          "localized_cancellation_policy_name": "Long Term",
+          "price": {
+            "date_range": null,
+            "localized_explanation": null,
+            "localized_title": "Total",
+            "price_items": [
+              {
+                "date_range": null,
+                "localized_explanation": "49 nights at €28 average per night. Average nightly rate is rounded.",
+                "localized_title": "Accommodation",
+                "price_items": [],
+                "total": {
+                  "amount": 1348,
+                  "currency": "EUR"
+                },
+                "type": "ACCOMMODATION"
+              },
+              {
+                "date_range": null,
+                "localized_explanation": "This helps us run our platform and offer services like 24/7 support on your trip.",
+                "localized_title": "Service fee",
+                "price_items": [],
+                "total": {
+                  "amount": 108,
+                  "currency": "EUR"
+                },
+                "type": "AIRBNB_GUEST_FEE"
+              }
+            ],
+            "total": {
+              "amount": 1456,
+              "currency": "EUR"
+            },
+            "type": "TOTAL"
+          }
+        },
+        "subtotal_price_guest_native": 1348
+      }
+    ],
+    "arrival_details": {
+      "checkin_time_selection_options": [],
+      "valid_checkin_time_selection_options": [],
+      "guest_checkin_time_from": {
+        "formatted_hour": "NOT_SELECTED",
+        "localized_hour_string": "Select"
+      },
+      "guest_checkin_time_to": {
+        "formatted_hour": "NOT_SELECTED",
+        "localized_hour_string": "Select"
+      },
+      "guest_details_block_instant_book_message": null,
+      "is_bringing_pets": false,
+      "is_check_in_time_instant_bookable": true,
+      "number_of_adults": null,
+      "number_of_children": null,
+      "number_of_infants": null,
+      "will_guest_details_block_instant_book": false
+    },
+    "cancellation_policy": "long_term",
+    "cancellation_policy_formatted": "Long Term",
+    "check_in": "2015-11-29",
+    "check_out": "2016-01-17",
+    "confirmation_code": "HYKCBJ",
+    "guest": {
+      "acceptance_rate": "N/A",
+      "created_at": "2011-03-07T11:32:28Z",
+      "first_name": "Nicolas",
+      "has_profile_pic": true,
+      "id": 453453543,
+      "identity_mt_verified": false,
+      "identity_v2_verified": false,
+      "identity_verified": true,
+      "is_superhost": false,
+      "is_trip_host": false,
+      "picture_large_url": "https://foobar",
+      "picture_url": "https://foobar",
+      "recommendation_count": 0,
+      "response_rate": "N/A",
+      "response_time": "N/A",
+      "reviewee_count": 9,
+      "thumbnail_medium_url": "https://foobar",
+      "thumbnail_url": "https://foobar",
+      "email": "(no email alias available)",
+      "last_name": "Blanco",
+      "listings_count": 0,
+      "location": "Paris, France",
+      "phone": "+33 6666666666"
+    },
+    "guest_details": {
+      "number_of_adults": null,
+      "number_of_children": null,
+      "number_of_infants": null
+    },
+    "has_paid_amenity_orders": false,
+    "id": 546456465,
+    "is_charged_request": false,
+    "is_shared_itinerary": false,
+    "is_sublet": true,
+    "listing": {
+      "additional_house_rules": "Enjoy your stay and have a good time!\nPlease close doors ,when using the airconditions.\nSmoking welcome ,but sorry only at the balcony\nPets not allowed",
+      "address": "Patak Villa  135/300  Patak Road  Thambon Chalong , Mueang Phuket, Phuket 83130, Thailand",
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "beds": 1,
+      "cancellation_policy": "strict",
+      "check_in_time": 15,
+      "check_out_time": 12,
+      "city": "Mueang Phuket",
+      "country": "Thailand",
+      "country_code": "TH",
+      "directions": "40KM FROM THE AIRPORT \nI CAN ARRANGE TRANSFER WITH MY DRIVER 800THB. 24 HOURS.\n  \nWHEN YOU ARRIVE CHALONG CIRCLE IN CHALONG TURN RIGHT DIRECTION KATA BEACH \nARTER 500M TURN LEFT INTO COMPOUND PATAK VILLA ,GO STRAIGHT ABOUT 600 M UNTIL YOU SEE THE BLUE WHITE SIGN OF SOI 14 TUEN LEFT FOLLOW THE ROAD TO THE END ABOUT 200\nYOU WILL SEE MY HOUSE AT NR 300",
+      "full_address": "Patak Villa  135/300  Patak Road  Thambon Chalong , Mueang Phuket, Phuket 83130, Thailand",
+      "guest_controls": {
+        "allows_children": true,
+        "allows_infants": false,
+        "allows_pets": false,
+        "allows_smoking": false,
+        "allows_events": false,
+        "id": 5645646,
+        "host_check_in_time_message": "XYZ ABC can accommodate any check-in time.",
+        "structured_house_rules": [
+          "No smoking",
+          "Not suitable for pets",
+          "No parties or events",
+          "May not be safe or suitable for infants (Under 2 years)",
+          "Check-in is after 3PM"
+        ],
+        "structured_house_rules_with_tips": [
+          {
+            "text": "No smoking",
+            "tip": null
+          },
+          {
+            "text": "Not suitable for pets",
+            "tip": null
+          },
+          {
+            "text": "No parties or events",
+            "tip": null
+          },
+          {
+            "text": "May not be safe or suitable for infants (Under 2 years)",
+            "tip": null
+          },
+          {
+            "text": "Check-in is after 3PM",
+            "tip": null
+          }
+        ]
+      },
+      "has_availability": true,
+      "has_paid_amenities": false,
+      "has_double_blind_reviews": false,
+      "hosts": [
+        {
+          "acceptance_rate": "N/A",
+          "created_at": "2012-08-20T14:41:36Z",
+          "first_name": "Foo Bar",
+          "has_profile_pic": true,
+          "id": 666666666,
+          "identity_mt_verified": false,
+          "identity_v2_verified": false,
+          "identity_verified": true,
+          "is_superhost": true,
+          "is_trip_host": false,
+          "picture_large_url": "https://foobar",
+          "picture_url": "https://foobar",
+          "recommendation_count": 0,
+          "response_rate": "100%",
+          "response_time": "within an hour",
+          "reviewee_count": 199,
+          "thumbnail_medium_url": "https://foobar",
+          "thumbnail_url": "https://foobar",
+          "email": "(no email alias available)",
+          "last_name": "Foo",
+          "listings_count": 8,
+          "location": "Phuket, Thailand",
+          "phone": "+66 756757675673"
+        }
+      ],
+      "host_guidebook": null,
+      "house_manual": "ENJOY YOUR STAY!\nSMOKING ALLOWED AT THE BALCONY ONLY!\nPETS NOT WELCOME. \nNO HOT PLATE COOKING.\nKEEP IN MIND YOU ARE NOT THE ONLY GUEST IN THE 3 STOREY. BUIILDING.\nCLEANING TOWELS AND LINEN CHANGE  POSSIBLE 300THB /TIME.\nNB! ONLY MONTHLY RENT\nNB !ELECTRICITY 5 THB/KWH!",
+      "house_rules": "Enjoy your stay and have a good time!\nPlease close doors ,when using the airconditions.\nSmoking welcome ,but sorry only at the balcony\nPets not allowed",
+      "id": 435345,
+      "instant_bookable": false,
+      "lat": 7.82262,
+      "lng": 98.336906,
+      "localized_city": "Mueang Phuket",
+      "market": "Phuket",
+      "max_nights": 500,
+      "medium_url": "https://foobar",
+      "min_nights": 15,
+      "name": "DELUXE STUDIO 35 SQM .SUNNY BALCONY. CHALONG",
+      "neighborhood": null,
+      "person_capacity": 2,
+      "picture_count": 31,
+      "picture_url": "https://foobar",
+      "picture_urls": [
+        "https://foobar",
+        "https://foobar",
+        "https://foobar"
+      ],
+      "primary_host": {
+        "acceptance_rate": "N/A",
+        "created_at": "2012-08-20T14:41:36Z",
+        "first_name": "Foo Bar",
+        "has_profile_pic": true,
+        "id": 453453,
+        "identity_mt_verified": false,
+        "identity_v2_verified": false,
+        "identity_verified": true,
+        "is_superhost": true,
+        "is_trip_host": false,
+        "picture_large_url": "https://foobar",
+        "picture_url": "https://foobar",
+        "recommendation_count": 0,
+        "response_rate": "100%",
+        "response_time": "within an hour",
+        "reviewee_count": 199,
+        "thumbnail_medium_url": "https://foobar",
+        "thumbnail_url": "https://foobar",
+        "email": "(no email alias available)",
+        "last_name": "Bar",
+        "listings_count": 8,
+        "location": "Phuket, Thailand",
+        "phone": "+66 5645465464"
+      },
+      "property_type": "Apartment",
+      "reviews_count": 22,
+      "room_type": "Entire home/apt",
+      "room_type_category": "entire_home",
+      "smart_location": "Mueang Phuket, Thailand",
+      "state": "Phuket",
+      "thumbnail_url": "https://foobar",
+      "thumbnail_urls": [
+        "https://foobar",
+        "https://foobar",
+        "https://foobar"
+      ],
+      "user": {
+        "acceptance_rate": "N/A",
+        "created_at": "2012-08-20T14:41:36Z",
+        "first_name": "Foo Bar",
+        "has_profile_pic": true,
+        "id": 345345,
+        "identity_mt_verified": false,
+        "identity_v2_verified": false,
+        "identity_verified": true,
+        "is_superhost": true,
+        "is_trip_host": false,
+        "picture_large_url": "https://foobar",
+        "picture_url": "https://foobar",
+        "recommendation_count": 0,
+        "response_rate": "100%",
+        "response_time": "within an hour",
+        "reviewee_count": 199,
+        "thumbnail_medium_url": "https://foobar",
+        "thumbnail_url": "https://foobar",
+        "email": "(no email alias available)",
+        "last_name": "Bar",
+        "listings_count": 8,
+        "location": "Phuket, Thailand",
+        "phone": "+66 565464564"
+      },
+      "user_id": 564564,
+      "xl_picture_url": "https://foobar",
+      "xl_picture_urls": [
+        "https://foobar",
+        "https://foobar",
+        "https://foobar"
+      ],
+      "zipcode": "83130"
+    },
+    "number_of_guests": 1,
+    "pending_expires_at": "2015-10-20T09:14:25Z",
+    "pricing_quote": {
+      "accommodation_price_includes_cleaning_fee": false,
+      "airbnb_credit_currency_amount": {
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "available": true,
+      "average_booked_price": null,
+      "base_price_breakdown": [],
+      "base_price_fx_fee_as_guest": {
+        "amount": 46,
+        "currency": "EUR"
+      },
+      "business_reservation_reward_info": {
+        "currency": null,
+        "display_currency": "EUR",
+        "has_applicable_reward_rule": false,
+        "reward_amount_payout": 0,
+        "reward_amount_viewer_native": 0
+      },
+      "can_instant_book": false,
+      "cancellation_policy_label": "long_term",
+      "cancellation_policy_link": "/home/cancellation_policies#long-term",
+      "check_in": "2015-11-29",
+      "check_out": "2016-01-17",
+      "cleaning_fee_as_guest": 0,
+      "deposit_pilot_eligible": false,
+      "extra_guests": 0,
+      "extra_guest_fee": {
+        "amount": 0,
+        "currency": "EUR"
+      },
+      "guests": 1,
+      "guest_details": {
+        "number_of_adults": 1,
+        "number_of_children": 0,
+        "number_of_infants": 0
+      },
+      "installments": [
+        {
+          "date_range": null,
+          "localized_explanation": null,
+          "localized_title": "Due Today",
+          "price_items": [],
+          "total": {
+            "amount": 911,
+            "currency": "EUR"
+          },
+          "type": "INSTALLMENT"
+        },
+        {
+          "date_range": null,
+          "localized_explanation": null,
+          "localized_title": "Due on Dec 26, 2015",
+          "price_items": [],
+          "total": {
+            "amount": 545,
+            "currency": "EUR"
+          },
+          "type": "INSTALLMENT"
+        }
+      ],
+      "is_good_price": null,
+      "localized_cancellation_policy_name": "Long Term",
+      "localized_unavailability_message": "",
+      "long_term_discount_amount_as_guest": 0,
+      "nights": 49,
+      "p3_exclude_taxes_and_fees": false,
+      "price": {
+        "date_range": null,
+        "localized_explanation": null,
+        "localized_title": "Total",
+        "price_items": [
+          {
+            "date_range": null,
+            "localized_explanation": "49 nights at €28 average per night. Average nightly rate is rounded.",
+            "localized_title": "Accommodation",
+            "price_items": [],
+            "total": {
+              "amount": 1348,
+              "currency": "EUR"
+            },
+            "type": "ACCOMMODATION"
+          },
+          {
+            "date_range": null,
+            "localized_explanation": "This helps us run our platform and offer services like 24/7 support on your trip.",
+            "localized_title": "Service fee",
+            "price_items": [],
+            "total": {
+              "amount": 108,
+              "currency": "EUR"
+            },
+            "type": "AIRBNB_GUEST_FEE"
+          }
+        ],
+        "total": {
+          "amount": 1456,
+          "currency": "EUR"
+        },
+        "type": "TOTAL"
+      },
+      "price_excluding_fees": {
+        "date_range": null,
+        "localized_explanation": null,
+        "localized_title": "Total",
+        "price_items": [
+          {
+            "date_range": null,
+            "localized_explanation": "49 nights at €28 average per night. Average nightly rate is rounded.",
+            "localized_title": "Accommodation",
+            "price_items": [],
+            "total": {
+              "amount": 1348,
+              "currency": "EUR"
+            },
+            "type": "ACCOMMODATION"
+          }
+        ],
+        "total": {
+          "amount": 1456,
+          "currency": "EUR"
+        },
+        "type": "TOTAL"
+      },
+      "rate": {
+        "amount": 911,
+        "currency": "EUR"
+      },
+      "rate_type": "monthly",
+      "refund": null
+    },
+    "primary_host": {
+      "acceptance_rate": "N/A",
+      "created_at": "2012-08-20T14:41:36Z",
+      "first_name": "Foo Bar",
+      "has_profile_pic": true,
+      "id": 3453453,
+      "identity_mt_verified": false,
+      "identity_v2_verified": false,
+      "identity_verified": true,
+      "is_superhost": true,
+      "is_trip_host": false,
+      "picture_large_url": "https://foobar",
+      "picture_url": "https://foobar",
+      "recommendation_count": 0,
+      "response_rate": "100%",
+      "response_time": "within an hour",
+      "reviewee_count": 199,
+      "thumbnail_medium_url": "https://foobar",
+      "thumbnail_url": "https://foobar",
+      "email": "(no email alias available)",
+      "last_name": "Bar",
+      "listings_count": 8,
+      "location": "Phuket, Thailand",
+      "phone": "+66 564645645"
+    },
+    "review": {
+      "author": {
+        "first_name": "Nicolas",
+        "host_name": "Nicolas",
+        "id": 345345,
+        "is_superhost": false,
+        "last_name": "Blanco",
+        "picture_url": "https://foobar",
+        "profile_path": "/users/show/foobar",
+        "profile_pic_path": "https://foobar",
+        "deleted": false
+      },
+      "author_id": 3453453,
+      "can_be_edited": false,
+      "comments": "Very nice small apartment in Phuket near Chalong pier. The photos and description are totally accurate. The house is in a residential area which is very safe, near a big international supermarket. I enjoyed my stay, thanks :)",
+      "created_at": "2016-01-17T11:18:22Z",
+      "id": 3453453,
+      "listing_id": 546456465,
+      "recipient_id": 4564,
+      "accuracy": 5,
+      "checkin": 5,
+      "expires_at": "2016-01-31T11:18:22Z",
+      "listing": {},
+      "location": 5,
+      "rating": 5,
+      "recipient": {
+        "first_name": "Foo Bar",
+        "host_name": "Foo Bar",
+        "id": 345353,
+        "is_superhost": true,
+        "last_name": "Bar",
+        "picture_url": "https://foobar",
+        "profile_path": "/users/show/bar",
+        "profile_pic_path": "https://foobar",
+        "deleted": false
+      },
+      "respect_house_rules": null,
+      "value": 4,
+      "available_category_tags": [
+        {
+          "category": "accuracy",
+          "tag_type": 9,
+          "text": "Wifi"
+        },
+        {
+          "category": "cleanliness",
+          "tag_type": 1,
+          "text": "Floors and carpet"
+        },
+        {
+          "category": "cleanliness",
+          "tag_type": 7,
+          "text": "Bathroom"
+        },
+        {
+          "category": "communication",
+          "tag_type": 20,
+          "text": "Host unreachable"
+        },
+        {
+          "category": "accuracy",
+          "tag_type": 10,
+          "text": "Noise"
+        },
+        {
+          "category": "cleanliness",
+          "tag_type": 8,
+          "text": "Kitchen"
+        },
+        {
+          "category": "cleanliness",
+          "tag_type": 2,
+          "text": "Towels and linens"
+        },
+        {
+          "category": "accuracy",
+          "tag_type": 12,
+          "text": "Listing description"
+        },
+        {
+          "category": "checkin",
+          "tag_type": 17,
+          "text": "Entering the home"
+        },
+        {
+          "category": "communication",
+          "tag_type": 19,
+          "text": "Check-in arrangements"
+        },
+        {
+          "category": "cleanliness",
+          "tag_type": 4,
+          "text": "Dust"
+        },
+        {
+          "category": "checkin",
+          "tag_type": 16,
+          "text": "Directions"
+        },
+        {
+          "category": "accuracy",
+          "tag_type": 13,
+          "text": "Photos"
+        },
+        {
+          "category": "cleanliness",
+          "tag_type": 6,
+          "text": "Bugs"
+        },
+        {
+          "category": "accuracy",
+          "tag_type": 11,
+          "text": "Size of home"
+        },
+        {
+          "category": "cleanliness",
+          "tag_type": 3,
+          "text": "Shower"
+        },
+        {
+          "category": "checkin",
+          "tag_type": 18,
+          "text": "Late host"
+        },
+        {
+          "category": "cleanliness",
+          "tag_type": 5,
+          "text": "Odors"
+        },
+        {
+          "category": "accuracy",
+          "tag_type": 14,
+          "text": "Amenities"
+        }
+      ],
+      "available_listing_attribute_tags": [
+        {
+          "category": "atmosphere",
+          "category_id": 1,
+          "tag_type": 7,
+          "text": "Residential"
+        },
+        {
+          "category": "atmosphere",
+          "category_id": 1,
+          "tag_type": 8,
+          "text": "Scenic"
+        },
+        {
+          "category": "atmosphere",
+          "category_id": 1,
+          "tag_type": 9,
+          "text": "Lively"
+        },
+        {
+          "category": "atmosphere",
+          "category_id": 1,
+          "tag_type": 10,
+          "text": "Quiet"
+        },
+        {
+          "category": "atmosphere",
+          "category_id": 1,
+          "tag_type": 11,
+          "text": "Hip"
+        },
+        {
+          "category": "atmosphere",
+          "category_id": 1,
+          "tag_type": 12,
+          "text": "Family-friendly"
+        }
+      ],
+      "all_listing_attribute_tags": [
+        {
+          "category": "location",
+          "category_id": 0,
+          "tag_type": 1,
+          "text": "Central"
+        },
+        {
+          "category": "location",
+          "category_id": 0,
+          "tag_type": 2,
+          "text": "Walkable"
+        },
+        {
+          "category": "location",
+          "category_id": 0,
+          "tag_type": 3,
+          "text": "Close to public transit"
+        },
+        {
+          "category": "location",
+          "category_id": 0,
+          "tag_type": 4,
+          "text": "Close to restaurants and shops"
+        },
+        {
+          "category": "location",
+          "category_id": 0,
+          "tag_type": 5,
+          "text": "Close to nightlife"
+        },
+        {
+          "category": "location",
+          "category_id": 0,
+          "tag_type": 6,
+          "text": "Secluded"
+        },
+        {
+          "category": "atmosphere",
+          "category_id": 1,
+          "tag_type": 7,
+          "text": "Residential"
+        },
+        {
+          "category": "atmosphere",
+          "category_id": 1,
+          "tag_type": 8,
+          "text": "Scenic"
+        },
+        {
+          "category": "atmosphere",
+          "category_id": 1,
+          "tag_type": 9,
+          "text": "Lively"
+        },
+        {
+          "category": "atmosphere",
+          "category_id": 1,
+          "tag_type": 10,
+          "text": "Quiet"
+        },
+        {
+          "category": "atmosphere",
+          "category_id": 1,
+          "tag_type": 11,
+          "text": "Hip"
+        },
+        {
+          "category": "atmosphere",
+          "category_id": 1,
+          "tag_type": 12,
+          "text": "Family-friendly"
+        }
+      ],
+      "category_comments": [
+        {
+          "id": "59894280/cleanliness",
+          "category": "cleanliness",
+          "comments": "",
+          "review_id": 59894280
+        },
+        {
+          "id": "59894280/accuracy",
+          "category": "accuracy",
+          "comments": "",
+          "review_id": 59894280
+        },
+        {
+          "id": "59894280/checkin",
+          "category": "checkin",
+          "comments": "",
+          "review_id": 59894280
+        },
+        {
+          "id": "59894280/communication",
+          "category": "communication",
+          "comments": "",
+          "review_id": 59894280
+        },
+        {
+          "id": "59894280/location",
+          "category": "location",
+          "comments": "",
+          "review_id": 59894280
+        },
+        {
+          "id": "59894280/value",
+          "category": "value",
+          "comments": "",
+          "review_id": 59894280
+        }
+      ],
+      "cleanliness": 5,
+      "communication": 5,
+      "has_submitted": true,
+      "listing_attribute_questions": [
+        {
+          "category": "location",
+          "text": "How would you describe the location?"
+        },
+        {
+          "category": "atmosphere",
+          "text": "What was the neighborhood like?"
+        }
+      ],
+      "private_feedback": "",
+      "private_feedback_for_airbnb": "",
+      "recommend": true,
+      "reservation": {
+        "base_price": 1485,
+        "base_price_formatted": "€1348",
+        "base_price_native": 1348,
+        "confirmation_code": "HYKCBJ",
+        "guest": {
+          "acceptance_rate": "N/A",
+          "created_at": "2011-03-07T11:32:28Z",
+          "first_name": "Nicolas",
+          "has_profile_pic": true,
+          "id": 3453453,
+          "identity_mt_verified": false,
+          "identity_v2_verified": false,
+          "identity_verified": true,
+          "is_superhost": false,
+          "is_trip_host": false,
+          "picture_large_url": "https://foobar",
+          "picture_url": "https://foobar",
+          "recommendation_count": 0,
+          "response_rate": "N/A",
+          "response_time": "N/A",
+          "reviewee_count": 9,
+          "thumbnail_medium_url": "https://foobar",
+          "thumbnail_url": "https://foobar"
+        },
+        "guest_details": {
+          "number_of_adults": null,
+          "number_of_children": null,
+          "number_of_infants": null
+        },
+        "guest_id": 4353453,
+        "host": {
+          "acceptance_rate": "N/A",
+          "created_at": "2012-08-20T14:41:36Z",
+          "first_name": "Foo Bar",
+          "has_profile_pic": true,
+          "id": 34534537,
+          "identity_mt_verified": false,
+          "identity_v2_verified": false,
+          "identity_verified": true,
+          "is_superhost": true,
+          "is_trip_host": false,
+          "picture_large_url": "https://foobar",
+          "picture_url": "https://foobar",
+          "recommendation_count": 0,
+          "response_rate": "100%",
+          "response_time": "within an hour",
+          "reviewee_count": 199,
+          "thumbnail_medium_url": "https://foobar",
+          "thumbnail_url": "https://foobar"
+        },
+        "host_id": 4353453,
+        "id": 34534535,
+        "listing": {
+          "bedrooms": 0,
+          "beds": 1,
+          "cancellation_policy": "strict",
+          "city": "Mueang Phuket",
+          "country": "Thailand",
+          "country_code": "TH",
+          "has_availability": true,
+          "id": 680167,
+          "instant_bookable": false,
+          "lat": 7.82262,
+          "listing_descriptions": [
+            {
+              "access": "You have access to the studio only, and of course free parking outside if you have car or motorbike.",
+              "author_type": "human",
+              "description": "Quiet located in the central part of Chalong.\nWalking distance to manyrestaurants,bars , shopping mall and Chalong Pier and Bay.\nBeaches Kate and Kata Noi  6 min. drive\nBig bathroom with rainshower.\nNice sunny balcony.two chairs and table.\nKitchenette-microwave .blender-ricecooker \nFree drinking water. \nSmart TV . Many western,russian and chinese programs.\nFast fibernet 35MB.\nMonthly rental only!\nOnly extra cost electricity 5  thb /kvh.\n\nYou have access to the studio only, and of course free parking outside if you have car or motorbike.\n\nMy Mobil +(PHONE NUMBER HIDDEN)   E-mail (EMAIL HIDDEN)\nMy technicien  Tean (PHONE NUMBER HIDDEN)   E-mail (EMAIL HIDDEN)\nIf you need help with anything you can always call me or send me a message and i will do  my best to help you out. \nOn arrival you will get my direct number and contact details\n\nIt's a very lovely neighborhood, very quiet and relaxing, but still only a couple of minutes from restaurants, and shopping.\nPeople in this area is very friendly and will always be happy to help you out.\n\nIt's a very easyto rent a motorbike or a car when you are here, will be happy to help you.\n\nDeep cleaning at departure  incl.\nWe provide 1 extra set of linen and towels\nWeekly cleaning ,linen and towels change 300thb.",
+              "house_rules": "Enjoy your stay and have a good time!\nPlease close doors ,when using the airconditions.\nSmoking welcome ,but sorry only at the balcony\nPets not allowed",
+              "interaction": "My Mobil +(PHONE NUMBER HIDDEN)   E-mail (EMAIL HIDDEN)\nMy technicien  Tean (PHONE NUMBER HIDDEN)   E-mail (EMAIL HIDDEN)\nIf you need help with anything you can always call me or send me a message and i will do  my best to help you out. \nOn arrival you will get my direct number and contact details",
+              "locale": "en",
+              "name": "DELUXE STUDIO 35 SQM .SUNNY BALCONY. CHALONG",
+              "neighborhood_overview": "It's a very lovely neighborhood, very quiet and relaxing, but still only a couple of minutes from restaurants, and shopping.\nPeople in this area is very friendly and will always be happy to help you out.",
+              "notes": "Deep cleaning at departure  incl.\nWe provide 1 extra set of linen and towels\nWeekly cleaning ,linen and towels change 300thb.",
+              "space": null,
+              "summary": "Quiet located in the central part of Chalong.\nWalking distance to manyrestaurants,bars , shopping mall and Chalong Pier and Bay.\nBeaches Kate and Kata Noi  6 min. drive\nBig bathroom with rainshower.\nNice sunny balcony.two chairs and table.\nKitchenette-microwave .blender-ricecooker \nFree drinking water. \nSmart TV . Many western,russian and chinese programs.\nFast fibernet 35MB.\nMonthly rental only!\nOnly extra cost electricity 5  thb /kvh.",
+              "transit": "It's a very easyto rent a motorbike or a car when you are here, will be happy to help you."
+            }
+          ],
+          "lng": 98.336906,
+          "medium_url": "https://foobar",
+          "monthly_price": 550,
+          "monthly_price_factor": 1,
+          "monthly_price_formatted": "€532",
+          "monthly_price_native": 532,
+          "name": "DELUXE STUDIO 35 SQM .SUNNY BALCONY. CHALONG",
+          "native_currency": "EUR",
+          "neighborhood": null,
+          "person_capacity": 2,
+          "picture_count": 31,
+          "picture_url": "https://foobar",
+          "picture_urls": [
+            "https://foobar",
+            "https://foobar",
+            "https://foobar"
+          ],
+          "price": 11,
+          "price_formatted": "€11",
+          "price_native": 11,
+          "property_type": "Apartment",
+          "reviews_count": 22,
+          "room_type": "Entire home/apt",
+          "room_type_category": "entire_home",
+          "scrim_color": "#2B241A",
+          "scrim_colors": [
+            "#2B241A",
+            "#4D2919",
+            "#7E6D63",
+            "#3E342A",
+            "#565D31",
+            "#2D2D2D",
+            "#47443B",
+            "#253022",
+            "#362D1E",
+            "#2F3A2A",
+            "#151515",
+            "#433E20",
+            "#30281B",
+            "#22140B",
+            "#4C555A",
+            "#27221C",
+            "#3F4634",
+            "#18131A",
+            "#1B1D12",
+            "#080703",
+            "#22202E",
+            "#0E0C0D",
+            "#251E0E",
+            "#25222D",
+            "#2B262A",
+            "#272C32",
+            "#323232",
+            "#AC443B",
+            "#175480",
+            "#251B1C",
+            "#0203F5"
+          ],
+          "smart_location": "Mueang Phuket, Thailand",
+          "state": "Phuket",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUh//AbHAi/Ha8Skxoe397aP05WSFoVjOG6D8YAAAAASUVORK5CYII=",
+          "preview_encoded_pngs": [
+            "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADsgsdqMAAAATElEQVQIHQFBAL7/ASRZfle5ifZ9xQBGlaBeyPRrukg1PIOARlWgRIIAP8DBwT68AEXVIACAQEDAgATBvp4nxf2HJljjQAAAABJRU5ErkJggg==",
+            "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAyAAAAW04BKR8gBwcLT1BNsri6BxsjAYNhQ/cGEeLwBfb19OT7BwEoHRwDAwQZIB/h3+MGHinxCB49poS6qAAAAABJRU5ErkJggg==",
+            "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCQAK//AURF6+7tBgUF/wwM/+ztAQGQCAL8+vz/Cw0EAeDE0/4MEvzo5wkMCAUFAAHm3+v7sLH/EBMHBwP8JCWZ0yfPh8KnuwAAAABJRU5ErkJggg=="
+          ],
+          "thumbnail_url": "https://foobar",
+          "thumbnail_urls": [
+            "https://foobar",
+            "https://foobar",
+            "https://foobar"
+          ],
+          "time_zone_name": "Asia/Bangkok",
+          "user_id": 3316642,
+          "weekly_price": null,
+          "weekly_price_factor": 1,
+          "weekly_price_formatted": "",
+          "weekly_price_native": null,
+          "x_medium_picture_url": "https://foobar",
+          "xl_picture_url": "https://foobar",
+          "xl_picture_urls": [
+            "https://foobar",
+            "https://foobar",
+            "https://foobar"
+          ],
+          "zipcode": "83130"
+        },
+        "native_currency": "EUR",
+        "nights": 49,
+        "number_of_guests": 1,
+        "pending_began_at": "2015-10-19T09:14:25Z",
+        "pending_expires_at": "2015-10-20T09:14:25Z",
+        "start_date": "2015-11-29",
+        "status": "accepted",
+        "status_code": 1,
+        "status_string": "Accepted",
+        "tax_amount": 0,
+        "tax_amount_formatted": "€0",
+        "tax_descriptions": [],
+        "time_zone_name": "Asia/Bangkok",
+        "total_price": 1604,
+        "total_price_formatted": "€1456",
+        "total_price_native": 1456
+      },
+      "reviewable_id": 343453,
+      "reviewable_instance_id": 3453454,
+      "reviewable_instance_type": "Reservation2",
+      "reviewable_type": "Hosting",
+      "role": "guest",
+      "selected_category_tag_types": [],
+      "selected_listing_attribute_tag_types": [],
+      "show_language_guidance": false
+    },
+    "status": "accepted",
+    "thread_id": 3423242,
+    "trip_id": null,
+    "using_identity_flow": false
+  }
+}
