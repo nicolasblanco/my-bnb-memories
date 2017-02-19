@@ -6,7 +6,8 @@ MyBnbMemories
 What's the idea/pitch?
 ----------------------
 
-MyBnbMemories is an experimental project. It should be currently used only by experimented developers.
+MyBnbMemories is an experimental project. It should be currently used only by experimented developers. It's totally unofficial and was made as a Proof Of Concept in a few days.
+Use at your own risk!
 
 Airbnb prefers that his customers look towards their next trips: next trips = business and money.
 
@@ -77,4 +78,4 @@ The application is doing direct calls to the Airbnb API, exactly like the mobile
 
 * Is there a probability of being banned/blocked by Airbnb for using this application?
 
-There shouldn't but you guarantee nothing. We're just doing simple calls to the mobile API. Of course this software is totally experimental and non-official so we guarantee nothing and cannot be held responsible of any problems.
+There shouldn't but I guarantee nothing. The app is just doing simple calls to the mobile API. Of course this software is totally experimental and non-official so we guarantee nothing and cannot be held responsible of any problems.
