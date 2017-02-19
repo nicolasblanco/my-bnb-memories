@@ -1,6 +1,8 @@
 MyBnbMemories
 =============
 
+[![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
 What's the idea/pitch?
 ----------------------
 
@@ -14,6 +16,8 @@ The goal is to create a simple application which will automatically compile and 
 
 Currently, MyBnbMemories is developed as a stand-alone application using Electron.
 The client-side web application of the Electron app is inside the `vue` folder and is a Vue.js Single Page Application. It uses Vue Material, Google Maps API, Charts.js and other cool librairies around...
+
+![Screenshot](https://raw.githubusercontent.com/nicolasblanco/my-bnb-memories/master/screenshot.png)
 
 Installation
 ------------
