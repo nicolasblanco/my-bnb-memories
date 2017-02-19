@@ -4,7 +4,7 @@ MyBnbMemories
 What's the idea/pitch?
 ----------------------
 
-MyBnbMemories is an experimental project.
+MyBnbMemories is an experimental project. It should be currently used only by experimented developers.
 
 Airbnb prefers that his customers look towards their next trips: next trips = business and money.
 
@@ -12,7 +12,39 @@ As a frequent Airbnb user, you get very few information and statistics about you
 
 The goal is to create a simple application which will automatically compile and display useful data and statistics about your personal past trips.
 
-Currently, MyBnbMemories is developed as a stand-alone application using Electron, Vue.js and Vue Material for the Graphical User Interface and of course a bunch of cool librairies around...
+Currently, MyBnbMemories is developed as a stand-alone application using Electron.
+The client-side web application of the Electron app is inside the `vue` folder and is a Vue.js Single Page Application. It uses Vue Material, Google Maps API, Charts.js and other cool librairies around...
+
+Installation
+------------
+
+Make sure you have at least Node LTS. Run `npm install` in both the current directory and the `vue` directory.
+
+```
+node -v # => should be at least v6.9.5 or up.
+npm install
+cd vue ; npm install ; cd..
+```
+
+Set the `AIRBNB_CLIENT_ID` token in the `.env` file in the root project directory.
+You may use the one used by the Airbnb official Android application.
+
+```
+echo "AIRBNB_CLIENT_ID=3092nxybyb0otqw18e8nh5nty" >> .env
+```
+
+To build the full GUI and run the Electron app at the end:
+
+```
+npm run build_run
+```
+
+To just run the Electron app without rebuilding anything:
+
+```
+./electron
+```
+
 
 Questions/Answers
 -----------------
