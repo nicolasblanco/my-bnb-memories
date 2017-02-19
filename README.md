@@ -32,7 +32,7 @@ Make sure you have at least Node LTS. Run `npm install` in both the current dire
 ```
 node -v # => should be at least v6.9.5 or up.
 npm install
-cd vue ; npm install ; cd..
+cd vue ; npm install ; cd ..
 ```
 
 Set the `AIRBNB_CLIENT_ID` token in the `.env` file in the root project directory.
