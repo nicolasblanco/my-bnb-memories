@@ -13,6 +13,7 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
   },
   "dependencies": {
+    "chart.js": "^2.6.0",
     "marker-clusterer-plus": "^2.1.4",
     "moment": "^2.17.1",
     "vue": "^2.1.10",
